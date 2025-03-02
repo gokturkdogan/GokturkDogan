@@ -35,6 +35,28 @@
     <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="html" width="40" height="40"/> 
   </a> 
+      <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="html" width="40" height="40"/> 
+  </a> 
+                    <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://pinia.vuejs.org/logo.svg" alt="html" width="40" height="40"/> 
+  </a> 
+        <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="html" width="40" height="40"/> 
+  </a> 
+          <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="html" width="40" height="40"/> 
+  </a> 
+            <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="html" width="40" height="40"/> 
+  </a> 
+              <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="html" width="80" height="40"/> 
+  </a> 
+                <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="html" width="40" height="40"/> 
+  </a> 
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokturkdogan&show_icons=true&locale=en&layout=compact" alt="gokturkdogan" /></p>
