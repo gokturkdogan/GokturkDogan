@@ -44,6 +44,9 @@
         <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="html" width="40" height="40"/> 
   </a> 
+          <a href="https://angular.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="html" width="40" height="40"/> 
+  </a> 
           <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="html" width="40" height="40"/> 
   </a> 
@@ -55,6 +58,12 @@
   </a> 
                 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="html" width="40" height="40"/> 
+  </a> 
+                  <a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="html" width="40" height="40"/> 
+  </a> 
+                    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="html" width="40" height="40"/> 
   </a> 
 
 </p>
