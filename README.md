@@ -71,3 +71,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokturkdogan&show_icons=true&locale=en&layout=compact" alt="gokturkdogan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokturkdogan&show_icons=true&locale=en" alt="gokturkdogan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokturkdogan&" alt="gokturkdogan" /></p>
