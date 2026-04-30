@@ -1,6 +1,6 @@
 <!--
 **gokturkdogan/GokturkDogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
---> 
+-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=Hi%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="header" width="100%" />
 
