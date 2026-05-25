@@ -159,7 +159,7 @@
 
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top"> 
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokturkdogan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false" alt="Top languages" />
     </td>
     <td valign="top">
